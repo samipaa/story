@@ -2,3 +2,4 @@ oats
 bananas
 frozen pizza
 chocolate
+beer
